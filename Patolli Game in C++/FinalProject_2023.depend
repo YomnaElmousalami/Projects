@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1680129195 source:c:\users\17572\desktop\finalproject_2023\player.cpp
+
+1680129257 source:c:\users\17572\desktop\finalproject_2023\referee.cpp
+
+1680188152 source:c:\users\17572\desktop\finalproject_2023\board.cpp
+	"Board.h"
+	"iostream"
+
+1680140757 c:\users\17572\desktop\finalproject_2023\board.h
+
+1680129892 source:c:\users\17572\desktop\finalproject_2023\main.cpp
+	<iostream>
+	"Board.h"
+
+1682303948 source:d:\cs 250\finalproject_2023\board.cpp
+	"Board.h"
+	"iostream"
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
+1682303076 d:\cs 250\finalproject_2023\board.h
+
+1681750884 source:d:\cs 250\finalproject_2023\main.cpp
+	<iostream>
+	"Board.h"
+	"Player.h"
+	"Referee.h"
+
+1682304290 source:d:\cs 250\finalproject_2023\player.cpp
+	"Player.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+
+1682304552 source:d:\cs 250\finalproject_2023\referee.cpp
+	<iostream>
+	"Referee.h"
+
+1682303948 d:\cs 250\finalproject_2023\player.h
+	"Board.h"
+	"Referee.h"
+
+1682304552 d:\cs 250\finalproject_2023\referee.h
+	<ctime>
+	<cstdlib>
+	<stdlib.h>
+	"Board.h"
+
