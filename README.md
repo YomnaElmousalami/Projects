@@ -1,1 +1,1 @@
-Here, you will find all of my personal projects that I have completed.
+This is a compilation of all of the personal projects I have completed.
