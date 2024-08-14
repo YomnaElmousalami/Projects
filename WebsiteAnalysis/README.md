@@ -1,0 +1,1 @@
+This document describes a project done with a group of 5 individuals, WebsiteAnalysis, to an analyze the static content on each page within a local copy of a website. This includes an analysis of each page and the site as a whole.
