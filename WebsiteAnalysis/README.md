@@ -1,1 +1,1 @@
-This project, WebsiteAnalysis, was done with a group of 5 individuals to an analyze the static content on each page within a local copy of a website in the Java programming language; this includes an analysis of each page and the site as a whole.
+This project, WebsiteAnalysis, was done with a group of 5 individuals to analyze the static content on each page within a local copy of a website in the Java programming language; this includes an analysis of each page and the site as a whole.
