@@ -1,1 +1,1 @@
-This is a compilation of all of the technical projects I have created while completing my computer science studies.
+This is a compilation of some of the technical projects I have created while completing my computer science studies.
